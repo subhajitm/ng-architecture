@@ -1,3 +1,9 @@
+# My Notes
+
+1. Each Angular library name begins with the @angular prefix.
+2. A component controls a patch of screen called a view.
+3. 
+
 # NgArchitecture
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
