@@ -3,6 +3,7 @@
 1. Each Angular library name begins with the @angular prefix.
 2. A component controls a patch of screen called a view.
 3. Registering at a component level means you get a new instance of the service with each new instance of that component. While, In general, add providers to the root module so that the same instance of a service is available everywhere.
+4. With ngIf we can make angular add/remove an element from the DOM. This improves performance for big HTML chunks.
 
 # NgArchitecture
 
