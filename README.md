@@ -6,6 +6,7 @@
 4. With ngIf we can make angular add/remove an element from the DOM. This improves performance for big HTML chunks.
 5. Angular executes template expressions after every change detection cycle.
 6. Change detection cycles are triggered by many asynchronous activities such as promise resolutions, http results, timer events, keypresses and mouse moves.
+7. In the world of Angular, the only role of attributes is to initialize element and directive state. When you write a data binding, you're dealing exclusively with properties and events of the target object. HTML attributes effectively disappear.
 
 # NgArchitecture
 
